@@ -4,7 +4,7 @@
 1. 사용자가 장치 전원 연결할 시 
     LCD에는 무작위 응원 메시지 출력: `matcha time~ ☕`
 
-2.버튼 2(7번 핀) 누를 시 25분(고정) 타이머 시작
+2. 버튼 2(7번 핀) 누를 시 25분(고정) 타이머 시작
   LCD 출력: 
    Pomodoro Start
    Time: 25:00
@@ -48,4 +48,5 @@
 * LCD는 랜덤 응원 메시지 출력
 
 ![image](https://github.com/user-attachments/assets/f33886d3-3a0e-4a80-861e-9b67f986506a)
+
 (해당 회로도) 
